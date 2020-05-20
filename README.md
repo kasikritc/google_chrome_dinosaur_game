@@ -11,4 +11,4 @@ This game is an attempt to duplicate the Dinosaur Game in Google Chrome which wi
 data: the folder that contains images that are used in the game
 Dino.py: the class of the dinosaur character in the game
 Obstacle.py: the class of the cacti, which is the obstacle, in the game
-jumping_dino.pyde: the source code of the game which causes the game to animate
+jumping_dino.pyde: the source code of the game which causes the game to animate and run properly
